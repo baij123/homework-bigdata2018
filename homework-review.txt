@@ -395,16 +395,16 @@ comment:
 320180941980, 320180942211, 
 comment:
 Reviewer, homework, correctness, test, documentation, exception, pep8
-320180941991, 320180941590, 
-comment:
-320180941991, 320180941361, 
-comment:
-320180941991, 320180928901, 
-comment:
-320180941991, 320180941651,a 
-comment:
-320180941991, 320180942021, 
-comment:
+320180941991, 320180941590, A,A,B,B,A
+comment:Not bad,but some code can be better
+320180941991, 320180941361, B,A,A,A,B
+comment:The code can contain more things
+320180941991, 320180928901, A,A,B,A,A
+comment:You should give a .py
+320180941991, 320180941651, A,A,A,A,A
+comment:Good 
+320180941991, 320180942021, A,A,A,A,A
+comment:Perfect code 
 Reviewer, homework, correctness, test, documentation, exception, pep8
 320180942011, 320180941460, A, A, B, A, A
 comment: The code and doctests are correct. But some functions have short documentation.
